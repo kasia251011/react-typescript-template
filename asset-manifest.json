@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-typescript-template/static/js/main.c8eace91.js",
+    "index.html": "/react-typescript-template/index.html",
+    "main.c8eace91.js.map": "/react-typescript-template/static/js/main.c8eace91.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c8eace91.js"
+  ]
+}
