@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# React TypeScript Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This template provides a starting point for building React applications using TypeScript. It includes various tools and libraries to enhance the development experience.
+Project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -11,36 +12,12 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Features
+ - TypeScript: The template is set up with TypeScript, allowing for static typing and improved code quality.
+ - ESLint: It includes ESLint configuration with recommended rules for code linting. It helps identify and fix common JavaScript/TypeScript errors and enforce coding standards.
+ - Prettier: Prettier is configured to format code automatically, ensuring consistent code style across the project.
+ - React Router: React Router is set up for handling client-side routing. It enables building single-page applications with multiple views and seamless navigation.
+ - Redux Toolkit (RTK): RTK is included to streamline state management. It provides utilities for creating Redux stores, reducers, actions, and selectors in a concise and efficient manner.
+ - RTK Query: RTK Query is integrated to simplify data fetching and caching. It provides a powerful abstraction layer over APIs, reducing boilerplate code and improving performance.
+ - SCSS: The template supports styling with SCSS (Sass). It allows writing modular and reusable CSS with features like variables, mixins, and nesting.
+ - Material-UI (MUI): MUI is set up as the UI component library. It provides a rich set of customizable and responsive components for building modern user interfaces.
